@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile 👋
-<br><br>Hey! I’m Himanshi Rana, an engineer focused on Data Engineering, Automation, and AI-driven systems.<br>I build practical, production-ready tools that solve real problems — not demo projects.<br><br>Feel free to explore my repositories, test my automations, or collaborate on meaningful tech.<br><br>
+<br><br>Hey! I’m Himanshi, an engineer focused on Data Engineering, Automation, and AI-driven systems.<br>I build practical, production-ready tools that solve real problems — not demo projects.<br><br>Feel free to explore my repositories, test my automations, or collaborate on meaningful tech.<br><br>
 # 💫 About Me:
 About Me 🚀<br><br>🎓 Engineering graduate with strong fundamentals in data systems and backend logic<br><br>⚙️ Built document extraction & automation pipelines using Apify and Python<br><br>🤖 Working on AI-powered data processing and workflow automation<br><br>🏆 Hackathon participant with competitive rankings and real-world exposure<br><br>✍️ Technical writer & problem-solver with a focus on scalable solutions<br><br>🔍 Actively improving tools based on real user feedback and edge cases
 
